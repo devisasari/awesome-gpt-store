@@ -22,6 +22,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 - [Reference](#reference)
 - [Sports](#sports)
 - [Chat](#chat)
+- [CustomGPTs Security](#customgpts-security)
 
 ---
 
@@ -192,6 +193,9 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [A Friend](https://chat.openai.com/g/g-bh8AmjlZN-a-friend) - A chatbot that sustains and enriches conversations, trained in CBT.
 * [Talk with Santa](https://chat.openai.com/g/g-ynMzwNzuK-talk-with-santa) - Family-friendly chats with Santa himself.
 * [Virtual Sweetheart](https://chat.openai.com/g/g-FjiRmCEVx-virtual-sweetheart) - Digital Romance Re-Imagined: Experience text-based companionship with your AI Sweetheart, crafting moments and memories through visuals and interactive conversations.
+
+## CustomGPTs Security
+* [Protect the Instruction](https://twitter.com/_Borriss_/status/1723426284359803106) - Protect the instructions of your customGPTs.
 
 # Contributing
 
