@@ -135,6 +135,7 @@ A curated list of awesome custom GPTs.
 * [Vegan Chef Bot](https://chat.openai.com/g/g-FUFW5OPb6-vegan-chef-bot) - Expert in fun & tasty vegan cooking.
 
 ## Developer Tools
+* [React AI](https://chat.openai.com/g/g-AVrfRPzod-react-ai) - Your React companion.
 * [IAC Code Guardian](https://chat.openai.com/g/g-nT849ZvCx-iac-code-guardian) - Introducing IAC Code Guardian: Your Trusted IaC Security Expert in Scanning Opentofu, Terrform, AWS Cloudformation, Pulumi, K8s Yaml & Dockerfile.
 * [Ferris the crab](https://chat.openai.com/g/g-2LFEDLGgS-ferris-the-crab) - The unofficial Rust programming language GPT.
 * [Android Dev Assist](https://chat.openai.com/g/g-kInvm7TFe-android-dev-assist) - Helps with Android app development, focusing on new tools like Jetpack Compose and Kotlin.
