@@ -181,3 +181,9 @@ A curated list of awesome custom GPTs.
 * [A Friend](https://chat.openai.com/g/g-bh8AmjlZN-a-friend) - A chatbot that sustains and enriches conversations, trained in CBT.
 * [Talk with Santa](https://chat.openai.com/g/g-ynMzwNzuK-talk-with-santa) - Family-friendly chats with Santa himself.
 * [Virtual Sweetheart](https://chat.openai.com/g/g-FjiRmCEVx-virtual-sweetheart) - Digital Romance Re-Imagined: Experience text-based companionship with your AI Sweetheart, crafting moments and memories through visuals and interactive conversations.
+
+# Contributing
+
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/devisasari/awesome-chatgpt-store/blob/main/CONTRIBUTING.md) first.
+
+If you have any question about this opinionated list, do not hesitate to contact me [@codewithisa](https://twitter.com/codewithisa) on Twitter or open an issue on GitHub.
