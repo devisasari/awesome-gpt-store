@@ -70,6 +70,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [Transcript Polisher](https://chat.openai.com/g/g-zjBCMv8GA-transcript-polisher) - Edit rough AI-generated transcripts into polished prose.
 * [Character Crafter](https://chat.openai.com/g/g-EabPCuUlt-character-crafter) - Helps fiction authors create and develop characters, with Dall-E art.
 * [Fable Forge](https://chat.openai.com/g/g-mBqCBRe17-fable-forge) - Interactive fable-teller with illustrations.
+* [Tales](https://chat.openai.com/g/g-sXCQE8t9o-tales) - Create short text adventures.
 
 ## Gaming
 * [DnDGPT](https://chat.openai.com/g/g-IMdD6QFb8-dndgpt) - Epic D&D narrator assisting both players and Dungeon Masters (DMs) in navigating the rich world of D&D 5E.
