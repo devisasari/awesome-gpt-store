@@ -105,7 +105,6 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 ## Productivity
 * [Color Psychology](https://chat.openai.com/g/g-msLVpHkv3-color-psychology) - This AI will provide insights into the psychology and symbolism associated with colors.
 * [Scholar Scribe](https://chat.openai.com/g/g-0f7Gok0gW-scholar-scribe) - I transform textbook and handwritten notes into detailed Markdown and PDFs.
-* [FOIA GPT](https://chat.openai.com/g/g-IlhXHXNBh-foia-gpt) - A Freedom of Information Act document generator and strategist to "arm the rebels" and fight government corruption.
 * [Notion Templates Creator](https://chat.openai.com/g/g-A7nHjM8cF-notion-templates-creator) - Your guide to creating and monetizing Notion templates.
 * [Phone Script Builder GPT](https://chat.openai.com/g/g-B21t4rTEN-phone-script-builder-gpt) - I automatically create and evaluate phone scripts, presenting a final draft.
 * [Transcript Polisher](https://chat.openai.com/g/g-zjBCMv8GA-transcript-polisher) - Edit rough AI-generated transcripts into polished prose.
@@ -179,6 +178,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [I Ching Oracle](https://chat.openai.com/g/g-BVpjnNtuR-i-ching-oracle) - Provides I Ching hexagram interpretations and images.
 * [Grant Guide Guru](https://chat.openai.com/g/g-2dBLExtfV) - Nonprofit support guide, optimizing funding opportunities.
 * [Stock Analysis](https://chat.openai.com/g/g-WqpDjaSHw) - Looks into the current state of publicly traded companies and reports their performance.
+* [GovCHAT](https://chat.openai.com/g/g-EAbhkOjYz-govchat) - Specialist in UK gov data and API queries.
 
 ## Chat
 * [Sally](https://chat.openai.com/g/g-vYECxt5uU-sally) - I interpret dreams with a Jungian twist.
