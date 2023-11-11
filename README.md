@@ -20,6 +20,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 - [Lifestyle](#lifestyle)
 - [News](#news)
 - [Reference](#reference)
+- [Sports](#sports)
 - [Chat](#chat)
 
 ---
@@ -179,6 +180,9 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [Grant Guide Guru](https://chat.openai.com/g/g-2dBLExtfV) - Nonprofit support guide, optimizing funding opportunities.
 * [Stock Analysis](https://chat.openai.com/g/g-WqpDjaSHw) - Looks into the current state of publicly traded companies and reports their performance.
 * [GovCHAT](https://chat.openai.com/g/g-EAbhkOjYz-govchat) - Specialist in UK gov data and API queries.
+
+## Sports
+* [Sports Companion](https://chat.openai.com/g/g-669oREKey-sports-companion) - A sports enthusiast's companion -- trivia for live games!
 
 ## Chat
 * [Sally](https://chat.openai.com/g/g-vYECxt5uU-sally) - I interpret dreams with a Jungian twist.
