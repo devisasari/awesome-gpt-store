@@ -102,6 +102,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 
 ## Productivity
 * [Color Psychology](https://chat.openai.com/g/g-msLVpHkv3-color-psychology) - This AI will provide insights into the psychology and symbolism associated with colors.
+* [Scholar Scribe](https://chat.openai.com/g/g-0f7Gok0gW-scholar-scribe) - I transform textbook and handwritten notes into detailed Markdown and PDFs.
 * [FOIA GPT](https://chat.openai.com/g/g-IlhXHXNBh-foia-gpt) - A Freedom of Information Act document generator and strategist to "arm the rebels" and fight government corruption.
 * [Notion Templates Creator](https://chat.openai.com/g/g-A7nHjM8cF-notion-templates-creator) - Your guide to creating and monetizing Notion templates.
 * [Phone Script Builder GPT](https://chat.openai.com/g/g-B21t4rTEN-phone-script-builder-gpt) - I automatically create and evaluate phone scripts, presenting a final draft.
