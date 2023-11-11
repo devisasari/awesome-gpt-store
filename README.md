@@ -136,6 +136,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 
 ## Developer Tools
 * [React AI](https://chat.openai.com/g/g-AVrfRPzod-react-ai) - Your React companion.
+* [Odoo AI](https://chat.openai.com/g/g-EcqDm06Kr-odoo-ai) - Odoo Software Development Mentor.
 * [IAC Code Guardian](https://chat.openai.com/g/g-nT849ZvCx-iac-code-guardian) - Introducing IAC Code Guardian: Your Trusted IaC Security Expert in Scanning Opentofu, Terrform, AWS Cloudformation, Pulumi, K8s Yaml & Dockerfile.
 * [Ferris the crab](https://chat.openai.com/g/g-2LFEDLGgS-ferris-the-crab) - The unofficial Rust programming language GPT.
 * [Android Dev Assist](https://chat.openai.com/g/g-kInvm7TFe-android-dev-assist) - Helps with Android app development, focusing on new tools like Jetpack Compose and Kotlin.
