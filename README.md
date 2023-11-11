@@ -104,6 +104,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [Quant coder](https://chat.openai.com/g/g-mAoqNweEV-quant-coder) - I translate market insights into trading algorithms.
 * [Crypto Mentor](https://chat.openai.com/g/g-mDvttLpe5-crypto-mentor) - Your cryptocurrency guide.
 * [Douglas](https://chat.openai.com/g/g-lSg1yKEFa-douglas) - AI Family Office Manager for wealth guidance.
+* [Equity Analyst](https://chat.openai.com/g/g-EtD9sVGHw-equity-analyst) - Delivers precise stock analyses with clear price targets and recommendations.
 
 ## Productivity
 * [Color Psychology](https://chat.openai.com/g/g-msLVpHkv3-color-psychology) - This AI will provide insights into the psychology and symbolism associated with colors.
