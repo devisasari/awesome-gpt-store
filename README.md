@@ -148,6 +148,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [Grimoire](https://chat.openai.com/g/g-n7Rs0IK86-grimoire) - Coding Wizard: 100x Engineer. Build a website with a sentence. Built for a new era of creativity: Prompt-gramming.
 * [Modern Next.js Assistant](https://chat.openai.com/g/g-5uKZEh1up-modern-next-js-assistant) - Specialized in Next.js, App Router, TypeScript, Shadcn, and Tailwind CSS; avoids pages router. Has preloaded documentation of Next.js version 14.0.2 and shadcn version 0.4.1.
 * [WordPress GPT (1.1)](https://chat.openai.com/g/g-Z8RtbJVuE-wordpress-gpt-1-1) - WordPress Developer Assistant.
+* [StreamlitGPT](https://chat.openai.com/g/g-ucLFVBWHR-streamlitgpt) - Code reviews from a Streamlit expert.
 
 ## Design
 * [UX/UI Designer | Roast my web and saas](https://chat.openai.com/g/g-U4yP1n6bt-ux-ui-designer-roast-my-web-and-saas) - A UX UI Designer who can help you roast your site or product, provide help, and guide you with good design.
