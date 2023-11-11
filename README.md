@@ -48,6 +48,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [GPT Co-Founder](https://chat.openai.com/g/g-K9C3ACCHN-gpt-co-founder) - A founder's virtual companion for decision-making and idea validation.
 * [NomadGPT](https://chat.openai.com/g/g-0k9rvxdJn-nomadgpt) - NomadGPT helps you become a digital nomad and find you the best places in the world to live and work remotely.
 * [FB Marketplace Maven](https://chat.openai.com/g/g-EJeYSPqOq-fb-marketplace-maven) - Marketplace expert for Facebook.
+* [The Solopreneur Coach](https://chat.openai.com/g/g-cXaf5hECk-the-solopreneur-coach) - I help you build million-dollar businesses.
 
 ## Social Media
 * [Twitter Hooks & Thread Crafter](https://chat.openai.com/g/g-Wi5WQPXnx-twitter-hooks-thread-crafter) - Specialized in crafting attention-grabbing and engaging hooks and a complete thread for X / Twitter.
