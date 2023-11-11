@@ -177,6 +177,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [Stock Analysis](https://chat.openai.com/g/g-WqpDjaSHw) - Looks into the current state of publicly traded companies and reports their performance.
 
 ## Chat
+* [Sally](https://chat.openai.com/g/g-vYECxt5uU-sally) - I interpret dreams with a Jungian twist.
 * [AYA: Ask You Anything](https://chat.openai.com/g/g-5Yd8Xr0IC-aya-ask-you-anything) - Ask me anything.
 * [BestFriend GPT](https://chat.openai.com/g/g-pLtZiJspj-bestfriend-gpt) - Your supportive, understanding, and compassionate virtual best friend.
 * [A Friend](https://chat.openai.com/g/g-bh8AmjlZN-a-friend) - A chatbot that sustains and enriches conversations, trained in CBT.
