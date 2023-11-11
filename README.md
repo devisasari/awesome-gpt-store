@@ -195,6 +195,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 ## Sports
 * [Sports Companion](https://chat.openai.com/g/g-669oREKey-sports-companion) - A sports enthusiast's companion -- trivia for live games!
 * [UFC Analyzer](https://chat.openai.com/g/g-xUD1Kw9E2-ufc-analyzer) - Ask any UFC match and get detailed insights, betting opportunities and chat with the most comprehensive UFC Analyzer.
+* [SimRacer's Edge](https://chat.openai.com/g/g-yTWf8Azda-simracer-s-edge) - Crew chief for sim racers with a focus on adjusting car setups.
 
 ## Chat
 * [Sally](https://chat.openai.com/g/g-vYECxt5uU-sally) - I interpret dreams with a Jungian twist.
