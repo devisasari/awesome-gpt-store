@@ -5,6 +5,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
   - [Business](#business)
   - [Social Media](#social-media)
   - [Music](#music)
+  - [Video](#video)
   - [Writing](#writing)
   - [Gaming](#gaming)
   - [Education](#education)
@@ -66,6 +67,9 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [Echolocation](https://chat.openai.com/g/g-Um51Akg9r-echolocation) - Music discovery guide specializing in unique and rich sounds.
 * [Bass(ed)GPT](https://chat.openai.com/g/g-pWKtpUtec-bass-ed-gpt) - Bangers only.
 * [GeistBot](https://chat.openai.com/g/g-mms0976dx-geistbot) - Formal, educational music historian with detailed responses and Discogs links.
+
+## Video
+* [Typeframes - Video Creation](https://chat.openai.com/g/g-vPFqv6NDp-typeframes-video-creation) - Create videos for you.
 
 ## Writing
 * [Character Crafter](https://chat.openai.com/g/g-EabPCuUlt-character-crafter) - Helps fiction authors create and develop characters, with Dall-E art.
