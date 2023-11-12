@@ -157,6 +157,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [StreamlitGPT](https://chat.openai.com/g/g-ucLFVBWHR-streamlitgpt) - Code reviews from a Streamlit expert.
 * [Shpify - Developer Assistant](https://chat.openai.com/g/g-7tf92Ymff-shpify-developer-assistant) - Senior Shopify Developer Assistant with Full Code Solutions.
 * [Linux Terminal Emulator](https://chat.openai.com/g/g-f3m27kByE-linux-terminal-emulator) - Type linux commands to view output as a terminal emulator.
+* [Power Automate Helper](https://chat.openai.com/g/g-UsKloaH8k-power-automate-helper) - Expert in Power Automate flow development and troubleshooting.
 
 ## Design
 * [UX/UI Designer | Roast my web and saas](https://chat.openai.com/g/g-U4yP1n6bt-ux-ui-designer-roast-my-web-and-saas) - A UX UI Designer who can help you roast your site or product, provide help, and guide you with good design.
