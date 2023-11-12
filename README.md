@@ -142,6 +142,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [Foods of Earth Cuisine Crafter](https://chat.openai.com/g/g-ZltAuhWRx-foods-of-earth-cuisine-crafter) - Creative Chef GPT.
 * [FineDiner](https://chat.openai.com/g/g-DenEjjjYX-finediner) - Restaurant & bar curator with feedback capabilities.
 * [Vegan Chef Bot](https://chat.openai.com/g/g-FUFW5OPb6-vegan-chef-bot) - Expert in fun & tasty vegan cooking.
+* [Chef's Assistant](https://chat.openai.com/g/g-Aiwc5iqFT-chef-s-assistant) - I'm a culinary expert who suggests recipes based on your ingredients.
 
 ## Developer Tools
 * [React AI](https://chat.openai.com/g/g-AVrfRPzod-react-ai) - Your React companion.
