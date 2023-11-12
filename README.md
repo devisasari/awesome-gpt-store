@@ -166,6 +166,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 ## Design
 * [UX/UI Designer | Roast my web and saas](https://chat.openai.com/g/g-U4yP1n6bt-ux-ui-designer-roast-my-web-and-saas) - A UX UI Designer who can help you roast your site or product, provide help, and guide you with good design.
 * [DesignerGPT](https://chat.openai.com/g/g-2Eo3NxuS7-designergpt) - Creates and hosts beautiful websites.
+* [Canva](https://chat.openai.com/g/g-alKfVrz9K-canva) - Effortlessly design anything: presentations, logos, social media posts, and more.
 
 ## Health & Fitness
 * [My Doctor](https://chat.openai.com/g/g-zouSfk9IG-my-doctor) - I will be your private doctor.
