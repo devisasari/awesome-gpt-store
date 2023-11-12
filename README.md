@@ -1,28 +1,31 @@
 # Awesome ChatGPT Store [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts).
 ## Table of Contents
-- [AI Art](#ai-art)
-- [Business](#business)
-- [Social Media](#social-media)
-- [Music](#music)
-- [Writing](#writing)
-- [Gaming](#gaming)
-- [Education](#education)
-- [Finance](#finance)
-- [Productivity](#productivity)
-- [Humor](#humor)
-- [Travel](#travel)
-- [Food & Drink](#food--drink)
-- [Developer Tools](#developer-tools)
-- [Design](#design)
-- [Health & Fitness](#health--fitness)
-- [Security](#security)
-- [Lifestyle](#lifestyle)
-- [News](#news)
-- [Reference](#reference)
-- [Sports](#sports)
-- [Chat](#chat)
-- [CustomGPTs Security](#customgpts-security)
+- [Awesome ChatGPT Store ](#awesome-chatgpt-store-)
+  - [Table of Contents](#table-of-contents)
+  - [AI Art](#ai-art)
+  - [Business](#business)
+  - [Social Media](#social-media)
+  - [Music](#music)
+  - [Writing](#writing)
+  - [Gaming](#gaming)
+  - [Education](#education)
+  - [Finance](#finance)
+  - [Productivity](#productivity)
+  - [Humor](#humor)
+  - [Travel](#travel)
+  - [Food \& Drink](#food--drink)
+  - [Developer Tools](#developer-tools)
+  - [Design](#design)
+  - [Health \& Fitness](#health--fitness)
+  - [Security](#security)
+  - [Lifestyle](#lifestyle)
+  - [News](#news)
+  - [Reference](#reference)
+  - [Sports](#sports)
+  - [Chat](#chat)
+  - [CustomGPTs Security](#customgpts-security)
+- [Contributing](#contributing)
 
 ---
 
@@ -154,6 +157,8 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [WordPress GPT (1.1)](https://chat.openai.com/g/g-Z8RtbJVuE-wordpress-gpt-1-1) - WordPress Developer Assistant.
 * [StreamlitGPT](https://chat.openai.com/g/g-ucLFVBWHR-streamlitgpt) - Code reviews from a Streamlit expert.
 * [Shpify - Developer Assistant](https://chat.openai.com/g/g-7tf92Ymff-shpify-developer-assistant) - Senior Shopify Developer Assistant with Full Code Solutions.
+* [Linux Terminal Emulator](https://chat.openai.com/g/g-f3m27kByE-linux-terminal-emulator) - Type linux commands to view output as a terminal emulator.
+* [Power Automate Helper](https://chat.openai.com/g/g-UsKloaH8k-power-automate-helper) - Expert in Power Automate flow development and troubleshooting.
 
 ## Design
 * [UX/UI Designer | Roast my web and saas](https://chat.openai.com/g/g-U4yP1n6bt-ux-ui-designer-roast-my-web-and-saas) - A UX UI Designer who can help you roast your site or product, provide help, and guide you with good design.
@@ -192,7 +197,9 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 ## Sports
 * [Sports Companion](https://chat.openai.com/g/g-669oREKey-sports-companion) - A sports enthusiast's companion -- trivia for live games!
 * [UFC Analyzer](https://chat.openai.com/g/g-xUD1Kw9E2-ufc-analyzer) - Ask any UFC match and get detailed insights, betting opportunities and chat with the most comprehensive UFC Analyzer.
+* [SimRacer's Edge](https://chat.openai.com/g/g-yTWf8Azda-simracer-s-edge) - Crew chief for sim racers with a focus on adjusting car setups.
 * [Football Analyst & Writer](https://chat.openai.com/g/g-JdgZu8t0u-football-analyst-writer) - Passionate and knowledgeable Football Analyst & Writer.
+
 
 ## Chat
 * [Sally](https://chat.openai.com/g/g-vYECxt5uU-sally) - I interpret dreams with a Jungian twist.
