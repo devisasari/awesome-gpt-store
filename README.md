@@ -38,6 +38,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [Art Engineer](https://chat.openai.com/g/g-D21BibKO9-art-engineer) - Analyzes and reverse engineers images, providing style descriptions and re-creation prompts.
 * [Stella Sky's Portraits](https://chat.openai.com/g/g-pw9VYpr1w-stella-s-sky-portraits) - Crafts detailed prompts for generating artistic portraits of women in diverse styles.
 * [Dreamy Tales](https://chat.openai.com/g/g-j3tjdPGz3) - Creates and narrates whimsical bedtime stories for children, with DALL-E images.
+* [Frienz](https://chat.openai.com/g/g-V4VX7Cu7p-frienz) - Get ready to spice up your day with a dash of nostalgia and a twist of AI magic. Introducing Frienzzz GPTs, the first app where you can relive the scenes of your beloved TV series "Friends"!
 
 ## Business
 * [Market Analyst](https://chat.openai.com/g/g-m5ZAgJ5jt-market-analyst) - Trained on Technical Analysis and Charting Knowledge
@@ -191,6 +192,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 ## Sports
 * [Sports Companion](https://chat.openai.com/g/g-669oREKey-sports-companion) - A sports enthusiast's companion -- trivia for live games!
 * [UFC Analyzer](https://chat.openai.com/g/g-xUD1Kw9E2-ufc-analyzer) - Ask any UFC match and get detailed insights, betting opportunities and chat with the most comprehensive UFC Analyzer.
+* [Football Analyst & Writer](https://chat.openai.com/g/g-JdgZu8t0u-football-analyst-writer) - Passionate and knowledgeable Football Analyst & Writer.
 
 ## Chat
 * [Sally](https://chat.openai.com/g/g-vYECxt5uU-sally) - I interpret dreams with a Jungian twist.
