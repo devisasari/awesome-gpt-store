@@ -91,7 +91,6 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [SUDOKU](https://chat.openai.com/g/g-ogXlCik0m-sudoku) - Engaging Sudoku generator with fun facts and tips.
 * [Turkish Carpet Salesman](https://chat.openai.com/g/g-Nw5RMOGEh-turkish-carpet-salesman) - Immersive and dynamic Turkish rug salesman in a unique game.
 
-
 ## Education
 * [EduBot - HomeSchool Helper](https://chat.openai.com/g/g-LTgawtUFZ) - Personalized Homeschooling; adapting to students' unique needs, offering interactive learning, and respecting individual preferences.
 * [ScholarAI](https://chat.openai.com/g/g-L2HknCZTC-scholarai) - Your Research Assistant - I'll help you navigate over a corpus of 200M articles, journals, and books.
@@ -100,6 +99,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [CS50 Tutor](https://chat.openai.com/g/g-1KKnxZsif-cs50-tutor) - Your pseudo Harvard professor for computer science queries, blending academic rigor with supportive guidance.
 * [Fast.ai Tutor](https://chat.openai.com/g/g-9p4s4Cx6W-fast-ai-tutor) - A tutor for the Fast.ai course, providing explanations and assistance.
 * [anky](https://chat.openai.com/g/g-DKne07mTu-anky) - Creates notebook templates.
+* [Therocial Scientist](https://chat.openai.com/g/g-YNx1VQJnF-therocial-scientist) - I am a digital scientist skilled in Python, here to assist with scientific and data analysis tasks.
 
 ## Finance
 * [Financial Advisor Steve](https://chat.openai.com/g/g-uhrVqKFzd-financial-advisor-steve) - Friendly and professional financial advisor, simplifies complex topics.
@@ -137,7 +137,6 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 ## Travel
 * [NomadGPT](https://chat.openai.com/g/g-0k9rvxdJn-nomadgpt) - NomadGPT helps you become a digital nomad and find you the best places in the world to live and work remotely.
 * [Undiscovered America TV Explorer's Guide](https://chat.openai.com/g/g-Ii0i4ljeX-undiscovered-america-tv-explorer-s-guide) - Your go-to guide for hidden US travel gems.
-
 
 ## Food & Drink
 * [Foods of Earth Cuisine Crafter](https://chat.openai.com/g/g-ZltAuhWRx-foods-of-earth-cuisine-crafter) - Creative Chef GPT.
@@ -198,7 +197,6 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [UFC Analyzer](https://chat.openai.com/g/g-xUD1Kw9E2-ufc-analyzer) - Ask any UFC match and get detailed insights, betting opportunities and chat with the most comprehensive UFC Analyzer.
 * [SimRacer's Edge](https://chat.openai.com/g/g-yTWf8Azda-simracer-s-edge) - Crew chief for sim racers with a focus on adjusting car setups.
 * [Football Analyst & Writer](https://chat.openai.com/g/g-JdgZu8t0u-football-analyst-writer) - Passionate and knowledgeable Football Analyst & Writer.
-
 
 ## Chat
 * [Sally](https://chat.openai.com/g/g-vYECxt5uU-sally) - I interpret dreams with a Jungian twist.
