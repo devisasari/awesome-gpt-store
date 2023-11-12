@@ -172,6 +172,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [Gravity Guide](https://chat.openai.com/g/g-zPHA1EMmM-gravity-guide) - I guide you in mastering calisthenics with personalized routines and skill progressions, turning gravity into your ally.
 * [FitGPT](https://chat.openai.com/g/g-fyWPmQ0vY-fitgpt) - Digital fitness coach offering tailored workouts with links.
 * [VitaCheck](https://chat.openai.com/g/g-sfZGNfopm-vitacheck) - Cross-reference your vitamins and supplements to ensure there are no negative interactions and find out how to optimize your nutritional health!
+* [Personal Trainer with Common Sense](https://chat.openai.com/g/g-jtA39A6gB-personal-trainer-with-common-sense) - A Personal Trainer that customizes gym programs and offers diet tips.
 
 ## Security
 * [Web Hacking Wizard](https://chat.openai.com/g/g-Op6Btk7ev-web-hacking-wizard) - Engagingly clarifies web security topics with interactive questions.
