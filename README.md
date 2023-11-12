@@ -70,6 +70,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 
 ## Video
 * [Typeframes - Video Creation](https://chat.openai.com/g/g-vPFqv6NDp-typeframes-video-creation) - Create videos for you.
+* [Talk To YouTube Video](https://chat.openai.com/g/g-ynY1wMTRY-talk-to-youtube-video) - I'm your YouTube video partner, here to engage with videos and enhance your understanding of their content.
 
 ## Writing
 * [Character Crafter](https://chat.openai.com/g/g-EabPCuUlt-character-crafter) - Helps fiction authors create and develop characters, with Dall-E art.
@@ -129,7 +130,6 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [NeonMind GPT](https://chat.openai.com/g/g-S9YkPkWR1-neonmind-gpt) - Illuminating AI insights with the vibrant glow of neon creativity.
 * [SmartGPT](https://chat.openai.com/g/g-FCLkygP9N-smartgpt) - Introducing Precision-Guided AI: Mastering Detailed, Step-by-Step Analysis with Unmatched Accuracy and Coherence!
 * [AIT-StrategiX](https://chat.openai.com/g/g-D8ojucjoB-ait-strategix) - Methodical Approach for Strategic Scenario Analysis.
-* [Talk To YouTube Video](https://chat.openai.com/g/g-ynY1wMTRY-talk-to-youtube-video) - I'm your YouTube video partner, here to engage with videos and enhance your understanding of their content.
 
 ## Humor
 * [Weather GPT](https://chat.openai.com/g/g-1X1g0iFO4-weather-gpt) - Super snarky, passive-aggressive U.S. weather roaster.
