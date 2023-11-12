@@ -1,8 +1,6 @@
 # Awesome ChatGPT Store [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts).
 ## Table of Contents
-- [Awesome ChatGPT Store ](#awesome-chatgpt-store-)
-  - [Table of Contents](#table-of-contents)
   - [AI Art](#ai-art)
   - [Business](#business)
   - [Social Media](#social-media)
@@ -25,7 +23,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
   - [Sports](#sports)
   - [Chat](#chat)
   - [CustomGPTs Security](#customgpts-security)
-- [Contributing](#contributing)
+  - [Contributing](#contributing)
 
 ---
 
