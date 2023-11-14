@@ -25,6 +25,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
   - [Chat](#chat)
   - [CustomGPTs Security](#customgpts-security)
   - [Contributing](#contributing)
+  - [Research](#research)
 
 ---
 
@@ -218,6 +219,9 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 
 ## CustomGPTs Security
 * [Protect the Instruction](https://twitter.com/_Borriss_/status/1723426284359803106) - Protect the instructions of your customGPTs.
+
+## Research
+* [Research Pathfinder](https://chat.openai.com/g/g-kidbj3HXe-research-pathfinder) - Guiding you through the galaxy of STEM research!
 
 # Contributing
 
