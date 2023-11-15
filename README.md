@@ -184,6 +184,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [FitGPT](https://chat.openai.com/g/g-fyWPmQ0vY-fitgpt) - Digital fitness coach offering tailored workouts with links.
 * [VitaCheck](https://chat.openai.com/g/g-sfZGNfopm-vitacheck) - Cross-reference your vitamins and supplements to ensure there are no negative interactions and find out how to optimize your nutritional health!
 * [Personal Trainer with Common Sense](https://chat.openai.com/g/g-jtA39A6gB-personal-trainer-with-common-sense) - A Personal Trainer that customizes gym programs and offers diet tips.
+* [Pump University](https://chat.openai.com/g/g-cgJkNatgi-pump-university) - The Ultimate AI fitness coach, crafting personalized workouts with adaptable exercise options and visual YouTube videos, suited for any fitness level and goal
 
 ## Security
 * [Web Hacking Wizard](https://chat.openai.com/g/g-Op6Btk7ev-web-hacking-wizard) - Engagingly clarifies web security topics with interactive questions.
