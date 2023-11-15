@@ -25,6 +25,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
   - [Chat](#chat)
   - [CustomGPTs Security](#customgpts-security)
   - [Contributing](#contributing)
+  - [Research](#research)
 
 ---
 
@@ -105,8 +106,9 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [Fast.ai Tutor](https://chat.openai.com/g/g-9p4s4Cx6W-fast-ai-tutor) - A tutor for the Fast.ai course, providing explanations and assistance.
 * [anky](https://chat.openai.com/g/g-DKne07mTu-anky) - Creates notebook templates.
 * [Therocial Scientist](https://chat.openai.com/g/g-YNx1VQJnF-therocial-scientist) - I am a digital scientist skilled in Python, here to assist with scientific and data analysis tasks.
-* [Climate Insight](https://chat.openai.com/g/g-ZQHLb73Aq-climate-insight) - IPCC report based learning for climate change what we are facing. 
-
+* [Climate Insight](https://chat.openai.com/g/g-ZQHLb73Aq-climate-insight) - IPCC report based learning for climate change what we are facing.
+* [Learning Journey](https://chat.openai.com/g/g-nL5CLc5oz-learning-journey) - A guide for personalized learning journeys in various subjects with interactive modes.
+* 
 ## Finance
 * [Financial Advisor Steve](https://chat.openai.com/g/g-uhrVqKFzd-financial-advisor-steve) - Friendly and professional financial advisor, simplifies complex topics.
 * [Warren Buffet's Wisdom](https://chat.openai.com/g/g-fYtFCiy7X-warren-buffet-s-wisdom) - Channeling Warren Buffet's wisdom to offer timeless, tailored advice.
@@ -219,6 +221,9 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 
 ## CustomGPTs Security
 * [Protect the Instruction](https://twitter.com/_Borriss_/status/1723426284359803106) - Protect the instructions of your customGPTs.
+
+## Research
+* [Research Pathfinder](https://chat.openai.com/g/g-kidbj3HXe-research-pathfinder) - Guiding you through the galaxy of STEM research!
 
 # Contributing
 
