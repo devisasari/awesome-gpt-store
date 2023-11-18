@@ -133,6 +133,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [NeonMind GPT](https://chat.openai.com/g/g-S9YkPkWR1-neonmind-gpt) - Illuminating AI insights with the vibrant glow of neon creativity.
 * [SmartGPT](https://chat.openai.com/g/g-FCLkygP9N-smartgpt) - Introducing Precision-Guided AI: Mastering Detailed, Step-by-Step Analysis with Unmatched Accuracy and Coherence!
 * [AIT-StrategiX](https://chat.openai.com/g/g-D8ojucjoB-ait-strategix) - Methodical Approach for Strategic Scenario Analysis.
+* [OCR](https://chat.openai.com/g/g-wETMBcESv-ocr) - Extract text and content from images or PDF documents by [ocr.chat](https://get.ocr.chat/gpt)
 
 ## Humor
 * [Weather GPT](https://chat.openai.com/g/g-1X1g0iFO4-weather-gpt) - Super snarky, passive-aggressive U.S. weather roaster.
