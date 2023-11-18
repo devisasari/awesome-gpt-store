@@ -25,7 +25,6 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
   - [Chat](#chat)
   - [CustomGPTs Security](#customgpts-security)
   - [Contributing](#contributing)
-  - [Research](#research)
 
 ---
 
@@ -108,6 +107,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [Therocial Scientist](https://chat.openai.com/g/g-YNx1VQJnF-therocial-scientist) - I am a digital scientist skilled in Python, here to assist with scientific and data analysis tasks.
 * [Climate Insight](https://chat.openai.com/g/g-ZQHLb73Aq-climate-insight) - IPCC report based learning for climate change what we are facing.
 * [Learning Journey](https://chat.openai.com/g/g-nL5CLc5oz-learning-journey) - A guide for personalized learning journeys in various subjects with interactive modes.
+* [Research Pathfinder](https://chat.openai.com/g/g-kidbj3HXe-research-pathfinder) - Guiding you through the galaxy of STEM research!
 * 
 ## Finance
 * [Financial Advisor Steve](https://chat.openai.com/g/g-uhrVqKFzd-financial-advisor-steve) - Friendly and professional financial advisor, simplifies complex topics.
@@ -224,8 +224,6 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 ## CustomGPTs Security
 * [Protect the Instruction](https://twitter.com/_Borriss_/status/1723426284359803106) - Protect the instructions of your customGPTs.
 
-## Research
-* [Research Pathfinder](https://chat.openai.com/g/g-kidbj3HXe-research-pathfinder) - Guiding you through the galaxy of STEM research!
 
 # Contributing
 
