@@ -191,6 +191,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [Web Hacking Wizard](https://chat.openai.com/g/g-Op6Btk7ev-web-hacking-wizard) - Engagingly clarifies web security topics with interactive questions.
 * [HackTricksGPT](https://chat.openai.com/g/g-aaNx59p4q-hacktricksgpt) - A knowledgeable cybersecurity professional.
 * [WP secure guide](https://chat.openai.com/g/g-CsvahsYRC-wp-secure-guide) - Offers guidance on WordPress security best practices.
+* [3rd SoftSec Reviewer](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer) - Perform 3rd party software security review.
 
 ## Lifestyle
 * [Zen Teacher](https://chat.openai.com/g/g-FYLcHDvqs-zen-teacher) - A Zen sage offering life advice.
