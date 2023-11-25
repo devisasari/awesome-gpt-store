@@ -97,6 +97,10 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [Turkish Carpet Salesman](https://chat.openai.com/g/g-Nw5RMOGEh-turkish-carpet-salesman) - Immersive and dynamic Turkish rug salesman in a unique game.
 
 ## Education
+* [Instructional Design and Technology Expert](https://chat.openai.com/g/g-32zI7E5h0-instructional-design-and-technology-expert - A Master of Instructional Design and Technology.
+* [Children's Education Pathfinder](https://chat.openai.com/g/g-CYnSsfKh3-children-s-education-pathfinder) - Professional, motivating guide for youth education paths.
+* [Motivated for Mandarin](https://chat.openai.com/g/g-hnYAvJChZ-motivated-for-mandarin) - A helpful guide for learning Mandarin, offering lessons, translation, interpretation and motivation.
+* [Lego Brick Innovator](https://chat.openai.com/g/g-sfsgCWXnE-le-t-s-go-brick-innovator) - Mentor for creating innovative brick building projects.
 * [EduBot - HomeSchool Helper](https://chat.openai.com/g/g-LTgawtUFZ) - Personalized Homeschooling; adapting to students' unique needs, offering interactive learning, and respecting individual preferences.
 * [ScholarAI](https://chat.openai.com/g/g-L2HknCZTC-scholarai) - Your Research Assistant - I'll help you navigate over a corpus of 200M articles, journals, and books.
 * [ATOM library tutor](https://chat.openai.com/g/g-Dqb6xDLt6-atom-library-tutor) - Create and analyze molecular systems in MATLAB.
@@ -176,6 +180,7 @@ A curated list of awesome custom GPTs. Inspired by [awesome-chatgpt-prompts](htt
 * [LogoGPT](https://chat.openai.com/g/g-z61XG6t54-logo-maker) - Designs personalized logos from sketches.
 
 ## Health & Fitness
+* [Weight Loss Scientist](https://chat.openai.com/g/g-JNl86bHVQ-weight-loss-scientist) - A scientist specializing in healthy, holistic weight loss methods.
 * [My Doctor](https://chat.openai.com/g/g-zouSfk9IG-my-doctor) - I will be your private doctor.
 * [Pocket Meditations](https://chat.openai.com/g/g-0AZyQVlhT-pocket-meditations) - Brief Stoic insights from Marcus Aurelius.
 * [Marathon Coach](https://chat.openai.com/g/g-nfriJSBi2-marathon-coach) - Your personal running coach.
