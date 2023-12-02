@@ -53,6 +53,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
 - [MinecraftMe](https://chat.openai.com/g/g-x3zm5ZeSD-minecraftme) - Turn yourself into a Minecraft character.
 
 ## Business
+* [StockGPT](https://chat.openai.com/g/g-0v9iaOSnO-stockgpt) - Expert analysis of stocks using comprehensive and realtime financial data.
 * [Market Analyst](https://chat.openai.com/g/g-m5ZAgJ5jt-market-analyst) - Trained on Technical Analysis and Charting Knowledge
 * [CEO GPT](https://chat.openai.com/g/g-EvV57BRZ0-ceo-gpt) - A concise mentor to startup CEOs, offering wisdom from business icons.
 * [Visionary Business Coach](https://chat.openai.com/g/g-SOQdsiT3I-visionary-business-coach) - A vision-based business coach specializing in plan creation and strategy refinement.
