@@ -40,6 +40,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
 ## AI Art
 * [Character Crafter](https://chat.openai.com/g/g-EabPCuUlt-character-crafter) - Helps fiction authors create and develop characters, with Dall-E art.
 * [Midjourney Generator](https://chat.openai.com/g/g-iWNYzo5Td-midjourney-generator) - MidJourney prompt expert for commercials.
+* [Midjourney Prompts](https://chat.openai.com/g/g-jvU1LDhpM-hoverbaums-image-wizard) - Turn your ideas into expansive Midjourney Prompts. Learn in in [the repo](https://github.com/HoverBaum/image-wizard-gpt).
 * [Simpsonize Me](https://chat.openai.com/g/g-tcmMldCYy-simpsonize-me) - I turn photos into Simpsons-style art.
 * [Visual Weather Artist GPT](https://chat.openai.com/g/g-twUGxmpHv-visual-weather-artist-gpt) - Hi, I'm the visual weather artist, give me your location (or any other) and I will draw the current weather conditions for you, a unique never before seen weather report!
 * [Wallpaper GPT](https://chat.openai.com/g/g-iQQ6Qfd6j-wallpaper-gpt) - I create vibrant wallpapers for phones and laptops.
