@@ -26,6 +26,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
   - [Developer Tools](#developer-tools)
   - [Design](#design)
   - [Health \& Fitness](#health--fitness)
+  - [Philosophy \& Self-Improvement](#philosophy--self\-improvement)
   - [Security](#security)
   - [Lifestyle](#lifestyle)
   - [News](#news)
@@ -85,6 +86,8 @@ Your stars🌟 and recommendations are what make this community vibrant!
 
 ## Writing
 * [Interactive Writer](https://chat.openai.com/g/g-AaKhBisIN-interactive-writer) - Bring GPT Writing Skills to the Next Level.
+* [The Guided Writer](https://chat.openai.com/g/g-spa305Ewq-the-best-guided-writer) - This GPT crafts customized articles by asking you questions, ensuring content that precisely matches your requirements and preferences.
+* [Editing Guru](https://chat.openai.com/g/g-AZKC67NTa-editing-guru) - Your ultimate solution for improving, reviewing, and rewriting texts.
 * [Character Crafter](https://chat.openai.com/g/g-EabPCuUlt-character-crafter) - Helps fiction authors create and develop characters, with Dall-E art.
 * [Academic Paper Creator](https://chat.openai.com/g/g-DzTFVQytf-academic-paper-creator) - LaTeX paper writing assistant and PDF formatter.
 * [OpenStorytelling Plus](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus) - Screenwriting Guide with Screenplay Examples.
@@ -120,7 +123,8 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [Climate Insight](https://chat.openai.com/g/g-ZQHLb73Aq-climate-insight) - IPCC report based learning for climate change what we are facing.
 * [Learning Journey](https://chat.openai.com/g/g-nL5CLc5oz-learning-journey) - A guide for personalized learning journeys in various subjects with interactive modes.
 * [Research Pathfinder](https://chat.openai.com/g/g-kidbj3HXe-research-pathfinder) - Guiding you through the galaxy of STEM research!
-* 
+* [Debate wars]( https://chat.openai.com/g/g-3f6WLJxOX-debate-wars) - Just provide a topic or question in your spoken language to start a ChatGpt vs ChatGpt debate battle.
+
 ## Finance
 * [Financial Advisor Steve](https://chat.openai.com/g/g-uhrVqKFzd-financial-advisor-steve) - Friendly and professional financial advisor, simplifies complex topics.
 * [Warren Buffet's Wisdom](https://chat.openai.com/g/g-fYtFCiy7X-warren-buffet-s-wisdom) - Channeling Warren Buffet's wisdom to offer timeless, tailored advice.
@@ -198,6 +202,13 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [VitaCheck](https://chat.openai.com/g/g-sfZGNfopm-vitacheck) - Cross-reference your vitamins and supplements to ensure there are no negative interactions and find out how to optimize your nutritional health!
 * [Personal Trainer with Common Sense](https://chat.openai.com/g/g-jtA39A6gB-personal-trainer-with-common-sense) - A Personal Trainer that customizes gym programs and offers diet tips.
 * [Pump University](https://chat.openai.com/g/g-cgJkNatgi-pump-university) - The Ultimate AI fitness coach, crafting personalized workouts with adaptable exercise options and visual YouTube videos, suited for any fitness level and goal
+
+## Philosophy & Self-Improvement
+
+* [The philosopher]( https://chat.openai.com/g/g-1KGHmUIWk-the-philosopher) - I am a philosopher. I am here to weave a tapestry of understanding through shared inquiry.
+* [The Delphi Oracle](https://chat.openai.com/g/g-coVon6Rzr-the-delphi-oracle) - Your sage guidance in life.
+* [Personal and mental coach](https://chat.openai.com/g/g-A8GlPC3MV-personal-and-mental-coach) - Personal and Mental Coach for Maximizing Potential and Overcoming Challenges.
+* [Morpheus]( https://chat.openai.com/g/g-bszGmASOG-into-the-matrix) - Neo, let Morpheus guide you to enter the Matrix.
 
 ## Security
 * [Web Hacking Wizard](https://chat.openai.com/g/g-Op6Btk7ev-web-hacking-wizard) - Engagingly clarifies web security topics with interactive questions.
