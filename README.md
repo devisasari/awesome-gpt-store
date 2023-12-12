@@ -53,6 +53,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
 - [MinecraftMe](https://chat.openai.com/g/g-x3zm5ZeSD-minecraftme) - Turn yourself into a Minecraft character.
 
 ## Business
+* [Superdomain](https://chat.openai.com/g/g-fhWHWw3rc-superdomain) - Find best domains before anyone else with an AI scoring engine based on 10+ signals.
 * [StockGPT](https://chat.openai.com/g/g-0v9iaOSnO-stockgpt) - Expert analysis of stocks using comprehensive and realtime financial data.
 * [Market Analyst](https://chat.openai.com/g/g-m5ZAgJ5jt-market-analyst) - Trained on Technical Analysis and Charting Knowledge
 * [CEO GPT](https://chat.openai.com/g/g-EvV57BRZ0-ceo-gpt) - A concise mentor to startup CEOs, offering wisdom from business icons.
