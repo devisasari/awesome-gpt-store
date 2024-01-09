@@ -120,7 +120,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [Climate Insight](https://chat.openai.com/g/g-ZQHLb73Aq-climate-insight) - IPCC report based learning for climate change what we are facing.
 * [Learning Journey](https://chat.openai.com/g/g-nL5CLc5oz-learning-journey) - A guide for personalized learning journeys in various subjects with interactive modes.
 * [Research Pathfinder](https://chat.openai.com/g/g-kidbj3HXe-research-pathfinder) - Guiding you through the galaxy of STEM research!
-* 
+* [Rust Mentor](https://chat.openai.com/g/g-DDKjGVW8S-rust-mentor) - A Rust programming language instructor for beginners.
 ## Finance
 * [Financial Advisor Steve](https://chat.openai.com/g/g-uhrVqKFzd-financial-advisor-steve) - Friendly and professional financial advisor, simplifies complex topics.
 * [Warren Buffet's Wisdom](https://chat.openai.com/g/g-fYtFCiy7X-warren-buffet-s-wisdom) - Channeling Warren Buffet's wisdom to offer timeless, tailored advice.
