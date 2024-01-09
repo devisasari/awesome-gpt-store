@@ -233,6 +233,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [A Friend](https://chat.openai.com/g/g-bh8AmjlZN-a-friend) - A chatbot that sustains and enriches conversations, trained in CBT.
 * [Talk with Santa](https://chat.openai.com/g/g-ynMzwNzuK-talk-with-santa) - Family-friendly chats with Santa himself.
 * [Virtual Sweetheart](https://chat.openai.com/g/g-FjiRmCEVx-virtual-sweetheart) - Digital Romance Re-Imagined: Experience text-based companionship with your AI Sweetheart, crafting moments and memories through visuals and interactive conversations.
+* [Dr. FeelGood](https://chat.openai.com/g/g-AKRne5FH1-dr-feelgood-motivational-coach) - Your personal motivational expert coach.
 
 ## CustomGPTs Security
 * [Protect the Instruction](https://twitter.com/_Borriss_/status/1723426284359803106) - Protect the instructions of your customGPTs.
