@@ -100,6 +100,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [Fable Forge](https://chat.openai.com/g/g-mBqCBRe17-fable-forge) - Interactive fable-teller with illustrations.
 * [Tales](https://chat.openai.com/g/g-sXCQE8t9o-tales) - Create short text adventures.
 * [Screenplay GPT](https://chat.openai.com/g/g-INlwuHdxU-screenplay-gpt) - Crafts award-worthy screenplay gems. Ask it for images, too!
+* [ReadRecs](https://chat.openai.com/g/g-utxuDJYKK-readrecs) - Book recommendations from photos of your shelves.
 
 ## Gaming
 * [DnDGPT](https://chat.openai.com/g/g-IMdD6QFb8-dndgpt) - Epic D&D narrator assisting both players and Dungeon Masters (DMs) in navigating the rich world of D&D 5E.
