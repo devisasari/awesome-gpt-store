@@ -97,7 +97,6 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [TechWriting GPT](https://chat.openai.com/g/g-TURZVCuy7-techwriting-gpt) - Expert in developer marketing and writing for engineers.
 * [Editby | SEO and social media writer](https://chat.openai.com/g/g-I3NZ9DoPL-editby-seo-and-social-media-writer) - Write engaging SEO-optimized articles and social media posts.
 * [Transcript Polisher](https://chat.openai.com/g/g-zjBCMv8GA-transcript-polisher) - Edit rough AI-generated transcripts into polished prose.
-* [Character Crafter](https://chat.openai.com/g/g-EabPCuUlt-character-crafter) - Helps fiction authors create and develop characters, with Dall-E art.
 * [Fable Forge](https://chat.openai.com/g/g-mBqCBRe17-fable-forge) - Interactive fable-teller with illustrations.
 * [Tales](https://chat.openai.com/g/g-sXCQE8t9o-tales) - Create short text adventures.
 * [Screenplay GPT](https://chat.openai.com/g/g-INlwuHdxU-screenplay-gpt) - Crafts award-worthy screenplay gems. Ask it for images, too!
