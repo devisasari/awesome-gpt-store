@@ -129,6 +129,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [Crypto Mentor](https://chat.openai.com/g/g-mDvttLpe5-crypto-mentor) - Your cryptocurrency guide.
 * [Douglas](https://chat.openai.com/g/g-lSg1yKEFa-douglas) - AI Family Office Manager for wealth guidance.
 * [Equity Analyst](https://chat.openai.com/g/g-EtD9sVGHw-equity-analyst) - Delivers precise stock analyses with clear price targets and recommendations.
+* [Austin AI: The Financial Advisor](https://chat.openai.com/g/g-yaYByRR5S-austin-ai-the-financial-advisor) - Helps plan finances around taxes, income, expenses, and investments.
 
 ## Productivity
 * [Color Psychology](https://chat.openai.com/g/g-msLVpHkv3-color-psychology) - This AI will provide insights into the psychology and symbolism associated with colors.
