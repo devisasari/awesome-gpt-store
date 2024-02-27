@@ -55,6 +55,8 @@ Your stars🌟 and recommendations are what make this community vibrant!
 - [MinecraftMe](https://chat.openai.com/g/g-x3zm5ZeSD-minecraftme) - Turn yourself into a Minecraft character.
 - [Coloring chibi images](https://chat.openai.com/g/g-KHVVTwHCX-coloring-chibi-images) - Generates chibi coloring images for kids.
 - [Vinyl Visions](https://chat.openai.com/g/g-eUsbZVcuk-vinyl-visions) - Create unique playlist covers.
+- [Studio Neiro AI](https://chat.openai.com/g/g-SRuCzS9Kf-studio-neiro-ai) - Create videos with talking digital avatars
+
 
 ## Business
 * [Superdomain](https://chat.openai.com/g/g-fhWHWw3rc-superdomain) - Find best domains before anyone else with an AI scoring engine based on 10+ signals.
