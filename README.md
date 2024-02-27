@@ -53,6 +53,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [Dreamy Tales](https://chat.openai.com/g/g-j3tjdPGz3) - Creates and narrates whimsical bedtime stories for children, with DALL-E images.
 * [Frienz](https://chat.openai.com/g/g-V4VX7Cu7p-frienz) - Get ready to spice up your day with a dash of nostalgia and a twist of AI magic. Introducing Frienzzz GPTs, the first app where you can relive the scenes of your beloved TV series "Friends"!
 - [MinecraftMe](https://chat.openai.com/g/g-x3zm5ZeSD-minecraftme) - Turn yourself into a Minecraft character.
+- [Coloring chibi images](https://chat.openai.com/g/g-KHVVTwHCX-coloring-chibi-images) - Generates chibi coloring images for kids.
 
 ## Business
 * [Superdomain](https://chat.openai.com/g/g-fhWHWw3rc-superdomain) - Find best domains before anyone else with an AI scoring engine based on 10+ signals.
