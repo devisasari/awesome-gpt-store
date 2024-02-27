@@ -53,6 +53,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [Dreamy Tales](https://chat.openai.com/g/g-j3tjdPGz3) - Creates and narrates whimsical bedtime stories for children, with DALL-E images.
 * [Frienz](https://chat.openai.com/g/g-V4VX7Cu7p-frienz) - Get ready to spice up your day with a dash of nostalgia and a twist of AI magic. Introducing Frienzzz GPTs, the first app where you can relive the scenes of your beloved TV series "Friends"!
 - [MinecraftMe](https://chat.openai.com/g/g-x3zm5ZeSD-minecraftme) - Turn yourself into a Minecraft character.
+- [Coloring chibi images](https://chat.openai.com/g/g-KHVVTwHCX-coloring-chibi-images) - Generates chibi coloring images for kids.
 - [Vinyl Visions](https://chat.openai.com/g/g-eUsbZVcuk-vinyl-visions) - Create unique playlist covers.
 
 ## Business
@@ -138,6 +139,8 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [Douglas](https://chat.openai.com/g/g-lSg1yKEFa-douglas) - AI Family Office Manager for wealth guidance.
 * [Equity Analyst](https://chat.openai.com/g/g-EtD9sVGHw-equity-analyst) - Delivers precise stock analyses with clear price targets and recommendations.
 * [Austin AI: The Financial Advisor](https://chat.openai.com/g/g-yaYByRR5S-austin-ai-the-financial-advisor) - Helps plan finances around taxes, income, expenses, and investments.
+* [Alex Earnings Call](https://chat.openai.com/g/g-GSs2i0VqU-alex-earnings-call) - Guides investors through earnings seasons.
+
 
 ## Productivity
 * [Color Psychology](https://chat.openai.com/g/g-msLVpHkv3-color-psychology) - This AI will provide insights into the psychology and symbolism associated with colors.
