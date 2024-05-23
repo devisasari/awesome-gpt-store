@@ -119,6 +119,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [Turkish Carpet Salesman](https://chat.openai.com/g/g-Nw5RMOGEh-turkish-carpet-salesman) - Immersive and dynamic Turkish rug salesman in a unique game.
 
 ## Education
+* [Real Estate Striver](https://chatgpt.com/g/g-Nhtfia7Ru-real-estate-striver-game) - Educate real estate investment as a RPG game where players build a real estate empire.
 * [EduBot - HomeSchool Helper](https://chat.openai.com/g/g-LTgawtUFZ) - Personalized Homeschooling; adapting to students' unique needs, offering interactive learning, and respecting individual preferences.
 * [ScholarAI](https://chat.openai.com/g/g-L2HknCZTC-scholarai) - Your Research Assistant - I'll help you navigate over a corpus of 200M articles, journals, and books.
 * [ATOM library tutor](https://chat.openai.com/g/g-Dqb6xDLt6-atom-library-tutor) - Create and analyze molecular systems in MATLAB.
