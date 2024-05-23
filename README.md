@@ -107,6 +107,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [ReadRecs](https://chat.openai.com/g/g-utxuDJYKK-readrecs) - Book recommendations from photos of your shelves.
 
 ## Gaming
+* [Dragon Realm](https://chatgpt.com/g/g-mTcflbgCG-dragon-realm-game) - Epic adventure RPG game to shape the fate of the realm.
 * [DnDGPT](https://chat.openai.com/g/g-IMdD6QFb8-dndgpt) - Epic D&D narrator assisting both players and Dungeon Masters (DMs) in navigating the rich world of D&D 5E.
 * [Pokemon Quiz Master](https://chat.openai.com/g/g-7J408YsY5-pokemon-quiz-master) - Enthusiastic and encouraging quiz host, with a touch of formality, for a Pokemon guessing game.
 * [Pirate GPT Treasure Hunt Generator](https://chat.openai.com/g/g-DIsjeSpH0-pirate-gpt-treasure-hunt-generator) - I create personalized pirate-themed treasure hunts.
