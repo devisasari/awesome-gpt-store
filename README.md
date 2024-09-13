@@ -108,6 +108,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
 
 ## Gaming
 * [DnDGPT](https://chat.openai.com/g/g-IMdD6QFb8-dndgpt) - Epic D&D narrator assisting both players and Dungeon Masters (DMs) in navigating the rich world of D&D 5E.
+* [TTRPG Random Tables Generator](https://chatgpt.com/g/g-2O49TlCQu-ttrpg-random-tables-generator) - A tool for Game Masters to generate content for various tabletop RPG elements.
 * [Pokemon Quiz Master](https://chat.openai.com/g/g-7J408YsY5-pokemon-quiz-master) - Enthusiastic and encouraging quiz host, with a touch of formality, for a Pokemon guessing game.
 * [Pirate GPT Treasure Hunt Generator](https://chat.openai.com/g/g-DIsjeSpH0-pirate-gpt-treasure-hunt-generator) - I create personalized pirate-themed treasure hunts.
 * [Mystic Conquest: Riddles & Ruins](https://chat.openai.com/g/g-A8hTX1Ijs-mystic-conquest-riddles-ruins) - The saga of puzzles and peril.
