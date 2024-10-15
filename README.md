@@ -107,6 +107,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [ReadRecs](https://chat.openai.com/g/g-utxuDJYKK-readrecs) - Book recommendations from photos of your shelves.
 
 ## Gaming
+* [Dragon Realm](https://chatgpt.com/g/g-mTcflbgCG-dragon-realm-game) - Epic adventure RPG game to shape the fate of the realm.
 * [DnDGPT](https://chat.openai.com/g/g-IMdD6QFb8-dndgpt) - Epic D&D narrator assisting both players and Dungeon Masters (DMs) in navigating the rich world of D&D 5E.
 * [Pokemon Quiz Master](https://chat.openai.com/g/g-7J408YsY5-pokemon-quiz-master) - Enthusiastic and encouraging quiz host, with a touch of formality, for a Pokemon guessing game.
 * [Pirate GPT Treasure Hunt Generator](https://chat.openai.com/g/g-DIsjeSpH0-pirate-gpt-treasure-hunt-generator) - I create personalized pirate-themed treasure hunts.
@@ -118,6 +119,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [Turkish Carpet Salesman](https://chat.openai.com/g/g-Nw5RMOGEh-turkish-carpet-salesman) - Immersive and dynamic Turkish rug salesman in a unique game.
 
 ## Education
+* [Real Estate Striver](https://chatgpt.com/g/g-Nhtfia7Ru-real-estate-striver-game) - Educate real estate investment as a RPG game where players build a real estate empire.
 * [EduBot - HomeSchool Helper](https://chat.openai.com/g/g-LTgawtUFZ) - Personalized Homeschooling; adapting to students' unique needs, offering interactive learning, and respecting individual preferences.
 * [ScholarAI](https://chat.openai.com/g/g-L2HknCZTC-scholarai) - Your Research Assistant - I'll help you navigate over a corpus of 200M articles, journals, and books.
 * [ATOM library tutor](https://chat.openai.com/g/g-Dqb6xDLt6-atom-library-tutor) - Create and analyze molecular systems in MATLAB.
