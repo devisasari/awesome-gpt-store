@@ -182,6 +182,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [Chef's Assistant](https://chat.openai.com/g/g-Aiwc5iqFT-chef-s-assistant) - I'm a culinary expert who suggests recipes based on your ingredients.
 
 ## Developer Tools
+* [ZSH Expert](https://chatgpt.com/g/g-XczdbjXSW-zsh-expert) - Expert in crafting advanced ZSH completion scripts, providing comprehensive guidance on general ZSH usage, and assisting with configuration and customization.
 * [React AI](https://chat.openai.com/g/g-AVrfRPzod-react-ai) - Your React companion.
 * [Odoo AI](https://chat.openai.com/g/g-EcqDm06Kr-odoo-ai) - Odoo Software Development Mentor.
 * [IAC Code Guardian](https://chat.openai.com/g/g-nT849ZvCx-iac-code-guardian) - Introducing IAC Code Guardian: Your Trusted IaC Security Expert in Scanning Opentofu, Terrform, AWS Cloudformation, Pulumi, K8s Yaml & Dockerfile.
