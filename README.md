@@ -198,6 +198,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [Awesome Prompt](https://chat.openai.com/g/g-mzoUJlM5z-awesome-prompt) - Prompt Development Guide to get better result.
 * [Code Sage](https://chat.openai.com/g/g-SYWHDyjjl-code-sage) - A master software engineer who follows best practices and ensures robust and elegant responses to code-related prompts.
 * [Keycloak Upgrade Assistant](https://chat.openai.com/g/g-BSXYGFVZ1-keycloak-upgrade-assistant) - An assistant that helps you upgrade your Keycloak server or cluster.
+* [SFCC Companion](https://chatgpt.com/g/g-Mtzcyt8qv-sfcc-companion) - Your Salesforce Commerce Cloud Assistant.
 
 ## Design
 * [UX/UI Designer | Roast my web and saas](https://chat.openai.com/g/g-U4yP1n6bt-ux-ui-designer-roast-my-web-and-saas) - A UX UI Designer who can help you roast your site or product, provide help, and guide you with good design.
