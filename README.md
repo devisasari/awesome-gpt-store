@@ -230,6 +230,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [HackTricksGPT](https://chat.openai.com/g/g-aaNx59p4q-hacktricksgpt) - A knowledgeable cybersecurity professional.
 * [WP secure guide](https://chat.openai.com/g/g-CsvahsYRC-wp-secure-guide) - Offers guidance on WordPress security best practices.
 * [3rd SoftSec Reviewer](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer) - Perform 3rd party software security review.
+* [CavalierGPT](https://chatgpt.com/g/g-Rddxw5Vyc-cavaliergpt) - Assistant designed to deliver detailed insights into domains, emails, usernames, IPs, keywords, and cybersecurity trends to uncover threats and enhance security.
 
 ## Lifestyle
 * [Zen Teacher](https://chat.openai.com/g/g-FYLcHDvqs-zen-teacher) - A Zen sage offering life advice.
