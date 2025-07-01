@@ -69,7 +69,6 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [StratGPT](https://chat.openai.com/g/g-GHU9fWyhR-stratgpt) - Generate Strategies for Everything.
 * [Avian](https://chat.openai.com/g/g-zMRWQxwDU-avian) - Analyze & visualize data from 20+ platforms, including Google Analytics, Google Ads & Facebook Ads.
 * [GPT Co-Founder](https://chat.openai.com/g/g-K9C3ACCHN-gpt-co-founder) - A founder's virtual companion for decision-making and idea validation.
-* [NomadGPT](https://chat.openai.com/g/g-0k9rvxdJn-nomadgpt) - NomadGPT helps you become a digital nomad and find you the best places in the world to live and work remotely.
 * [FB Marketplace Maven](https://chat.openai.com/g/g-EJeYSPqOq-fb-marketplace-maven) - Marketplace expert for Facebook.
 * [The Solopreneur Coach](https://chat.openai.com/g/g-cXaf5hECk-the-solopreneur-coach) - I help you build million-dollar businesses.
 * [First Time Manager Guide](https://chat.openai.com/g/g-3ocrRA0Y8-first-time-manager-guide) - Helpful coach for first-time or new managers that uses tested advice to help you succeed.
