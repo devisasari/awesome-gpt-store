@@ -160,6 +160,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [GPT Ideas](https://chat.openai.com/g/g-x2ms3pMDv-gpt-ideas) - Innovative GPT ideas for ChatGPT & API.
 * [Zero](https://chat.openai.com/g/g-KRUiYR8gD-zero) - Zero, an AI agent with a rich knowledge base in quantum computing, mathematics, organic AI, and more, offering narratives for personal growth.
 * [NeonMind GPT](https://chat.openai.com/g/g-S9YkPkWR1-neonmind-gpt) - Illuminating AI insights with the vibrant glow of neon creativity.
+* [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 * [SmartGPT](https://chat.openai.com/g/g-FCLkygP9N-smartgpt) - Introducing Precision-Guided AI: Mastering Detailed, Step-by-Step Analysis with Unmatched Accuracy and Coherence!
 * [AIT-StrategiX](https://chat.openai.com/g/g-D8ojucjoB-ait-strategix) - Methodical Approach for Strategic Scenario Analysis.
 * [OCR](https://chat.openai.com/g/g-wETMBcESv-ocr) - Extract text and content from images or PDF documents.
