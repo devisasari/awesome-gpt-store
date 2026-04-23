@@ -163,6 +163,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [SmartGPT](https://chat.openai.com/g/g-FCLkygP9N-smartgpt) - Introducing Precision-Guided AI: Mastering Detailed, Step-by-Step Analysis with Unmatched Accuracy and Coherence!
 * [AIT-StrategiX](https://chat.openai.com/g/g-D8ojucjoB-ait-strategix) - Methodical Approach for Strategic Scenario Analysis.
 * [OCR](https://chat.openai.com/g/g-wETMBcESv-ocr) - Extract text and content from images or PDF documents.
+* [AgentJobs](https://chatgpt.com/g/g-69c0a8b41d008191a6ad244646f7619e-agentjobs) - An AI recruiter inside ChatGPT. Asks intake questions about your role and goals, then searches 43,000+ live jobs at OpenAI, Anthropic, Stripe, Coinbase and 100+ top companies. Suggests roles you haven't thought of and gives a salary market read.
 
 ## Humor
 * [Weather GPT](https://chat.openai.com/g/g-1X1g0iFO4-weather-gpt) - Super snarky, passive-aggressive U.S. weather roaster.
