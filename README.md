@@ -89,6 +89,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
 ## Video
 * [Typeframes - Video Creation](https://chat.openai.com/g/g-vPFqv6NDp-typeframes-video-creation) - Create videos for you.
 * [Talk To YouTube Video](https://chat.openai.com/g/g-ynY1wMTRY-talk-to-youtube-video) - I'm your YouTube video partner, here to engage with videos and enhance your understanding of their content.
+* [AI Video Prompt Lab](https://chat.openai.com/g/g-69f39fed108c8191b804c2232c7947e8-ai-video-prompt-lab) - Hands-on lab for AI video prompts: copy-paste templates for Seedance 2.0, Runway, Pika, Kling, Sora, plus cross-model comparisons and permission-safe workflows.
 
 ## Writing
 * [Interactive Writer](https://chat.openai.com/g/g-AaKhBisIN-interactive-writer) - Bring GPT Writing Skills to the Next Level.
