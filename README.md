@@ -75,6 +75,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [First Time Manager Guide](https://chat.openai.com/g/g-3ocrRA0Y8-first-time-manager-guide) - Helpful coach for first-time or new managers that uses tested advice to help you succeed.
 * [Impossible Sales Rep](https://chat.openai.com/g/g-prlTJYjxZ-impossible-sales-rep) - Generates custom cold reach sales emails with thorough research.
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP for verifying AI agent wallet identity on Solana. Free: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ## Social Media
 * [Twitter Hooks & Thread Crafter](https://chat.openai.com/g/g-Wi5WQPXnx-twitter-hooks-thread-crafter) - Specialized in crafting attention-grabbing and engaging hooks and a complete thread for X / Twitter.
 * [Username Genius](https://chat.openai.com/g/g-2qyTpg91g-username-genius) - I craft unique usernames for social media.
