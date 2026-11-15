@@ -85,6 +85,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [Echolocation](https://chat.openai.com/g/g-Um51Akg9r-echolocation) - Music discovery guide specializing in unique and rich sounds.
 * [Bass(ed)GPT](https://chat.openai.com/g/g-pWKtpUtec-bass-ed-gpt) - Bangers only.
 * [GeistBot](https://chat.openai.com/g/g-mms0976dx-geistbot) - Formal, educational music historian with detailed responses and Discogs links.
+* [No Stairs Please MCP](https://nostairsplease.com/mcp) - ChatGPT app and remote MCP server for searching under-400 capacity live music venues across North America.
 
 ## Video
 * [Typeframes - Video Creation](https://chat.openai.com/g/g-vPFqv6NDp-typeframes-video-creation) - Create videos for you.
